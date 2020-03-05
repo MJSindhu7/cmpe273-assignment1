@@ -1,3 +1,11 @@
+python tcp_client.py A 10 3
+Sending data: ping
+Received data: pong
+Sending data: ping
+Received data: pong
+Sending data: ping
+Received data: pong
+
 python tcp_client.py B 10 5
 Sending data: ping
 Received data: pong
